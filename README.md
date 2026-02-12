@@ -1,4 +1,4 @@
-![MasterHead](https://animated-gif-creator.com/images/01/custom-logo-design-for-your-business-knb-logos_76.gif)
+![MasterHead](https://camo.githubusercontent.com/1e32f179f5b75f7999057b2fb3d29ac42df1f728fd9e26f421c07ea689155ec5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032312f3732302f3932302f6f726967696e616c2f706978656c2d6a6566662d6d6172696f2e6769663f31353732373039343333)
 <h1 align="center">Hi 👋, I'm Aungon Chowdhury</h1>
 <h3 align="center">A passionate Machine Learning and Deep learning Researcher from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
